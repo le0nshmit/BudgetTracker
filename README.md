@@ -1,1 +1,1 @@
-# ![alt text](https://iconscout.com/icons/budget-tracking)
+# ![alt text](https://iconscout.com/icons/budget-tracking.webp)
