@@ -1,12 +1,10 @@
 # ![Budget Tracker Logo](./images/budget-tracker-logo.png)
-***
 
 This project is focused on learning C integration with Python, 
 once I have basic functionality I will look to optimise code and improve.
 
 ## Getting Started
 
-***
 
 Follow these instructions to correctly setup the project and run it on your
 local machine for development and testing purposes! 
